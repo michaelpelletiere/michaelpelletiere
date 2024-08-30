@@ -2,7 +2,7 @@
 - 👀 I’m interested in a Project or Program Management role with an emphasis in Tech.
 - 🌱 I’m currently learning AZ-900, SEC+, and PMP.
 - 💞️ I’m looking to collaborate on any tracking of projects or programs!
-- 📫 How to reach me michael.pelletiere@outlook.com or michael.t.pelletiere@gmail.com.
+- 📫 How to reach me michael.pelletiere@outlook.com or michael.t.pelletiere@gmail.com. You can also find out more about me at https://www.linkedin.com/in/michael-pelletiere.
 - ⚡ Fun fact: I love spending my time outdoors! Either snowboarding in the winter or trail running in the summer, no season can keep me out of the mountains!
 
 <!---

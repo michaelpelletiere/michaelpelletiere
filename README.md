@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Michael Pelletiere.
+# 👋 Hi, I’m Mike.
 - 👀 I’m interested in a Project or Program Management role with an emphasis in Technology.
 - 🌱 I’m currently learning AZ-900, AI-900, SEC+, and PMP.
 - 💞️ I’m looking to collaborate on any tracking of projects or programs!

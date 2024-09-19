@@ -6,3 +6,4 @@
 - [ ] GitHub Foundations
 - [ ] PMP
 - [ ] SEC+
+- [ ] Google Digital Leader

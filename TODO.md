@@ -1,6 +1,6 @@
 # My Certification To-Do List
 
-- [ ] AZ-900
+- [x] AZ-900
 - [ ] AI-900
 - [ ] AZ-104
 - [ ] GitHub Foundations

@@ -3,7 +3,7 @@
 👀 I’m interested in a Project or Program Management role with an emphasis in Technology. I also enjoy engaging with the Customer and would like to explore Customer Facing Roles. <br></br>
 📌 Searching for work in the Seattle, WA and Denver, CO areas! <br></br>
 🌱 I’m currently studying for AI-900 and AZ-104. Next on my radar is GitHub Foundations, SEC+, Google Cloud Digital Leader, and PMP. <br></br>
-💞️ I’m looking to collaborate on any projects, reach out if you are interested! Especially anything with AI/ML!<br></br>
+💞️ I’m looking to collaborate on any projects, reach out if you are interested! Especially anything with AI/ML/DL!<br></br>
 📫 Reach me at michael.pelletiere@outlook.com or michael.t.pelletiere@gmail.com. You can also find out more about me at https://www.linkedin.com/in/michael-pelletiere. <br></br>
 ⚡ Fun fact: I love spending my free time outdoors! Either snowboarding in the winter or trail running in the summer, no season can keep me out of the mountains! Also, love the Rubik's Cube and fun puzzles! <br></br>
 

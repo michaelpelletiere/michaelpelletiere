@@ -1,6 +1,6 @@
 <h1 align = 'center'> 👋 Hi, I’m Mike. </h1>
 <h3 align = 'center' > I am a current IT Student in Microsoft's Software and Systems Academy! </h3>
-👀 I’m interested in a Program Management or Software Developement role in Technology. I also would like to explore Customer Facing Roles. <br></br>
+👀 I’m interested in a Program/Product Management or Software Developement role in Technology. I also would like to explore Customer Facing Roles. <br></br>
 📌 Searching for work in the Seattle, WA and Denver, CO areas! <br></br>
 🌱 I currently have AZ-900. I’m currently studying for GitHub Foundations, PMI-PMP, AI-900, AZ-104, AZ-800, SC-900, SEC+, and Google Cloud Digital Leader. <br></br>
 💞️ I’m looking to collaborate on any projects, reach out if you are interested! <br></br>

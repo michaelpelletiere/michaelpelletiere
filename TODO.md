@@ -5,6 +5,7 @@
 - [ ] AI-900
 - [ ] SC-900
 - [ ] AZ-104
+- [ ] AWS Certified Cloud Practitioner
 - [ ] GitHub Foundations
 - [ ] PMI-PMP
 - [ ] SEC+

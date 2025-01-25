@@ -1,4 +1,4 @@
-<h1 align = 'center'> 👋 Hi, I’m Mike. </h1>
+<h1 align = 'center'> 👋 Hi, I’m Michael. </h1>
 <h3 align = 'center' > I am a current Oracle Sales Intern and recent Microsoft Software and Systems Academy Graduate! </h3>
 👀 I’m interested in a Sales, Consulting, or Program/Product Management role in Technology. <br></br>
 📌 Searching for work in the Nashville, Seattle, or Denver areas! <br></br>

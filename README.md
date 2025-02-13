@@ -1,5 +1,5 @@
 <h1 align = 'center'> 👋 Hi, I’m Michael. </h1>
-<h3 align = 'center' > I am a current Oracle Sales Intern and recent Microsoft Software and Systems Academy Graduate! </h3>
+<h3 align = 'center' > I am a current Oracle Veteran Intern and recent Microsoft Software and Systems Academy Graduate! </h3>
 👀 I’m interested in a Sales, Consulting, or Program/Product Management role in Technology. <br></br>
 📌 Searching for work in the Nashville, Seattle, or Denver areas! <br></br>
 🌱 I currently have AZ-900. I’m currently studying for PMI-PMP, AI-900, AZ-104, and SEC+. <br></br>

@@ -1,5 +1,5 @@
 <h1 align = 'center'> 👋 Hi, I’m Michael. </h1>
-<h3 align = 'center' > I am a current Oracle Workload Specialist and recent Oracle Veteran Internship Program and Microsoft Software and Systems Academy Graduate! </h3>
+<h3 align = 'center' > I am a current Oracle Workload Specialist. I recently finsihed the Oracle Veteran Internship Program and Microsoft Software and Systems Academy! </h3>
 👀 I’m interested in using GitHub to improve my Technology skills. <br></br>
 📌 Currently working remote in Nashville, TN! <br></br>
 🌱 I currently have my OCI 2025 Foundations Associate and Azure Fundamentals. Currently studying for my OCI 2025 Architect Associate. <br></br>

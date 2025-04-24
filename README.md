@@ -1,8 +1,8 @@
 <h1 align = 'center'> 👋 Hi, I’m Michael. </h1>
-<h3 align = 'center' > I am a current Oracle Veteran Intern and recent Microsoft Software and Systems Academy Graduate! </h3>
-👀 I’m interested in a Sales, Consulting, or Program/Product Management role in Technology. <br></br>
-📌 Searching for work in the Nashville, Seattle, or Denver areas! <br></br>
-🌱 I currently have AZ-900. I’m currently studying for PMI-PMP, AI-900, AZ-104, and SEC+. <br></br>
+<h3 align = 'center' > I am a current Oracle Workload Specialist and recent Oracle Veteran Internship Program and Microsoft Software and Systems Academy Graduate! </h3>
+👀 I’m interested in using GitHub to improve my Technology skills. <br></br>
+📌 Currently working remote in Nashville, TN! <br></br>
+🌱 I currently have my OCI 2025 Foundations Associate and Azure Fundamentals. Currently studying for my OCI 2025 Architect Associate. <br></br>
 💞️ I’m looking to collaborate on any projects, reach out if you are interested! <br></br>
 📫 Reach me at michael.pelletiere@outlook.com. You can also find out more about me at https://www.linkedin.com/in/michael-pelletiere. <br></br>
 ⚡ Fun fact: I love spending my free time outdoors! Either snowboarding in the winter or trail running in the summer, no season can keep me out of the mountains! Also, I love the Rubik's Cube, riddles, and fun puzzles! <br></br>
